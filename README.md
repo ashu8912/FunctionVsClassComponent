@@ -1,2 +1,0 @@
-# FunctionVsClassComponent
-Created with CodeSandbox
